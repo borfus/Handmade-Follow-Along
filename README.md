@@ -5,4 +5,4 @@ You can learn more about Casey Muratori's Handmade Hero series at https://www.ha
 
 The language used is C written in .cpp files to borrow some C++ features. I am following along using Vim, Cygwin, and Visual Studio 2017
 
-Current Progress: Day 3
+Current Progress: Day 4
