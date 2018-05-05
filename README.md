@@ -7,5 +7,5 @@ The language used is C written in .cpp files to borrow some C++ features. I am f
 
 Current Progress: Day 5
 
-Side note: I've decided to supplement this follow-along with the book <a href="https://www.amazon.com/Head-First-C-Brain-Friendly-Guide/dp/1449399916" target="_blank"><u>Head First C</u></a>.
+Side note: I've decided to supplement this follow-along with the book [Head First C](https://www.amazon.com/Head-First-C-Brain-Friendly-Guide/dp/1449399916).
 My current progress on this is: page 26
